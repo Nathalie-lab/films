@@ -2,7 +2,7 @@
   "name": "third",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Nathalie-lab.github.io/films.git",
+  "homepage": "https://Nathalie-lab.github.io/films",
   "dependencies": {
     "@testing-library/dom": "^10.4.2",
     "@testing-library/jest-dom": "^6.9.1",
